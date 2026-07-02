@@ -28,6 +28,7 @@ Using median distribution thresholds ($df['BALANCE'].median()$ and $df['PURCHASE
 * **VIP Spenders (2,098 Users):** The highest-value segment, driving **$5.09 Million** in total purchases with an average spend of **$2,430/customer** and an average credit line of $6,105.
 * **Active Budgeters (2,377 Users):** High-velocity spenders ($1,455 avg. purchase) maintaining low revolving balances despite restricted credit lines ($4,474 avg. limit).
 * **Risky / Inactive Accounts (2,377 Users):** Customers holding substantial credit capacity ($4,447 avg. limit) but generating minimal transaction volume ($66 avg. spend).
+* **Low-Value Users (2,098 Users):** Customers maintaining low revolving balances and demonstrating very low transaction velocity ($125 avg. purchase) on restricted credit lines ($2,959 avg. limit). This segment represents low immediate risk but offers minimal profitability.
 
 ### 2. Purchase Preference Analysis
 * **Finding:** The portfolio yields a **1.44 One-off to Installment Ratio**. 
