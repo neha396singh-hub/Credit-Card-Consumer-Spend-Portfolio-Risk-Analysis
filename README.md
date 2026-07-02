@@ -23,7 +23,7 @@ Leveraging a blend of statistical analysis and commercial strategy, this project
 ## 📊 Key Insights & Executive Deliverables
 
 ### 1. Customer Segmentation Portfolio
-Using median distribution thresholds ($df['BALANCE'].median()$ and $df['PURCHASES'].median()$), the portfolio was segmented into four distinct behavioral quadrants:
+Using median distribution thresholds, the portfolio was segmented into four distinct behavioral quadrants:
 
 * **VIP Spenders (2,098 Users):** The highest-value segment, driving **$5.09 Million** in total purchases with an average spend of **$2,430/customer** and an average credit line of $6,105.
 * **Active Budgeters (2,377 Users):** High-velocity spenders ($1,455 avg. purchase) maintaining low revolving balances despite restricted credit lines ($4,474 avg. limit).
